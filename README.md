@@ -1,2 +1,2 @@
 # Data-Structures-And-Algorithms
-This is my DSA all Labs and Tasks.
+This is my DSA all Labs.
